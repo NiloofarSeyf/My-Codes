@@ -1,0 +1,10 @@
+x = int (input ("Enter x:"))
+y = int (input ("Enter y:"))
+addition = x + y
+subtraction = x - y
+multiply = x * y
+division = x / y
+print ("x + y =",addition)
+print ("x - y =",subtraction)
+print ("x * y =",multiply)
+print ("x / y =",division)
