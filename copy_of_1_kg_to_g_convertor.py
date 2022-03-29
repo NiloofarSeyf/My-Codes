@@ -8,5 +8,5 @@ Original file is located at
 """
 
 kg = input("Please inter kg:")
-g = kg * 1000
+g = int(kg) * 1000
 print ("g =", g )
